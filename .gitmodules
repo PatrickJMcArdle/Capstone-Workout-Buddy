@@ -4,3 +4,6 @@
 [submodule "Workout-Buddy-Back-End"]
 	path = Workout-Buddy-Back-End
 	url = https://github.com/PatrickJMcArdle/Workout-Buddy-Back-End
+[submodule "WB-frontend"]
+	path = WB-frontend
+	url = https://github.com/PatrickJMcArdle/WB-frontend
